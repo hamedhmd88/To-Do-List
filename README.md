@@ -1,4 +1,4 @@
-**# To-Do-List**
+# To-Do-List
 
 **Creating a todolist with HTML, CSS and JavaScript :**
 
