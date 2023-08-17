@@ -33,7 +33,7 @@
 <hr/>
 
 <ul>
-  <li><strong>And finally, we press the add button :</strong></li>
+  <li><strong>And finally, we press the add button:</strong></li>
 </ul>
 
 <div>
