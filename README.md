@@ -1,6 +1,6 @@
 # To-Do-List
 
-**Creating a todolist with HTML, CSS and JavaScript :**
+**Creating a todolist with HTML, CSS and JavaScript  :**
 
 <ul>
   <li><strong>An overview of the project that has two inputs and a button to add :</strong></li>
